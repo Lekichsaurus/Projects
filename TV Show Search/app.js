@@ -1,3 +1,5 @@
+'use strict';
+
 const form = document.querySelector('#searchForm');
 const imgs = document.querySelector('.imgs');
 
